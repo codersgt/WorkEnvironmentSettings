@@ -74,3 +74,4 @@ Tomar en cuenta la instalación de cada una de las herramientas con sus variable
 - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime	
 ```
+[IvanEspin](https://instagram.com/ivanspintran)
