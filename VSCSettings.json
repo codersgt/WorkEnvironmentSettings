@@ -1,0 +1,47 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+
+	"files.associations": { "*.module": "php" },
+	"prettier.arrowParens": "always",
+	"prettier.bracketSpacing": true,
+	"prettier.htmlWhitespaceSensitivity": "css",
+	"prettier.insertPragma": false,
+	"prettier.jsxBracketSameLine": false,
+	"prettier.jsxSingleQuote": false,
+	"prettier.proseWrap": "preserve",
+	"prettier.quoteProps": "as-needed",
+	"prettier.requirePragma": false,
+	"prettier.semi": true,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"prettier.trailingComma": "es5",
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": false,
+	"prettier.printWidth": 80,
+
+	"prettier.phpVersion": "5.4",
+	"prettier.trailingCommaPHP": true,
+	"prettier.braceStyle": "psr-2",
+	"php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+	"php-cs-fixer.lastDownload": 1613081647914,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"tabnine.experimentalAutoImports": true,
+	"editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"workbench.colorTheme": "SynthWave '84",
+	"window.zoomLevel": 1,
+	"javascript.updateImportsOnFileMove.enabled": "always"
+}
