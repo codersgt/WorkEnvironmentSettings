@@ -39,7 +39,7 @@
                 "commandline": "powershell.exe",
                 "hidden": false,
 		"colorScheme": "Dev",
-		"startingDirectory": "D:/"
+		"startingDirectory": "D:/Proyectos"
             },
             {
                 // Make changes here to the cmd.exe profile.
