@@ -38,7 +38,8 @@
                 "name": "Windows PowerShell",
                 "commandline": "powershell.exe",
                 "hidden": false,
-		"colorScheme": "Dev"
+		"colorScheme": "Dev",
+		"startingDirectory": "D:/"
             },
             {
                 // Make changes here to the cmd.exe profile.
